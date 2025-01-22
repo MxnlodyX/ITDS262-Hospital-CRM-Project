@@ -1,2 +1,11 @@
 # ITDS262-Hospital-CRM-Project
-Hospital Customer Relationship Management System
+
+## Project Information
+- **Project Topic:** Hospital Customer Relationship Management System
+- **Subject:** Software Engineering Lab
+- **Year & Semester:** Year 2 Semester 1
+- **Final Grade:** A
+
+
+
+
